@@ -1,0 +1,10 @@
+/* Exported 29. Jan 2024 from Secure ShellFish on iPhone */
+{
+  "39AAC3E9-4835-4EBB-832D-9D05F18D2080" : {
+    "description" : "List #Debian package updates",
+    "body" : [
+      "apt list --upgradable",
+      ""
+    ]
+  }
+}
